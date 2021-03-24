@@ -1,0 +1,1 @@
+# aignostics-challenge
